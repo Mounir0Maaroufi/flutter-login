@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>335189052219-5vvts7pus6eu8968ancdlp0f2jq0ssik.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.335189052219-5vvts7pus6eu8968ancdlp0f2jq0ssik</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>335189052219-27p5mmv8ftup2ekjl282djgl96r102t2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKXP-SuRpvGNPMvefy7lrU4rBND0GJfI4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>335189052219</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.campyyallaa.tn</string>
+	<key>PROJECT_ID</key>
+	<string>campy-yallaa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>campy-yallaa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:335189052219:ios:87ddebd6bff828dbed051e</string>
+</dict>
+</plist>

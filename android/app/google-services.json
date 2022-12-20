@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "335189052219",
+    "project_id": "campy-yallaa",
+    "storage_bucket": "campy-yallaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335189052219:android:66c1f262a6c2d305ed051e",
+        "android_client_info": {
+          "package_name": "com.campyyallaa.tn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335189052219-27p5mmv8ftup2ekjl282djgl96r102t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.campyyallaa.tn",
+            "certificate_hash": "68352fa12ec6d6ce8b9f713f7b30a390ce5ad63e"
+          }
+        },
+        {
+          "client_id": "335189052219-q6nbp6odtpu9r1s84eunfnh4i8ru2gmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtE0t61TOs1eHv1vDzyYp8-EAttpPsjkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335189052219-q6nbp6odtpu9r1s84eunfnh4i8ru2gmf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335189052219-5vvts7pus6eu8968ancdlp0f2jq0ssik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.campyyallaa.tn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
